@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hawhz Simplicity</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="Kenoky.ttf">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+  <header class="bg-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark container">
+      <a class="navbar-brand" class="nav-link" href="html">Hawhz Simplicity</a>
+     
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="html">Inicio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="productos.html">Productos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="sobre.html">Sobre Nosotros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contactanos.html">Contáctanos</a>
+          </li>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="iniciosesion.html">Iniciar sesión</a>
+        </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="container text-center">
+      <h1 class="display-4 mt-5 mb-4">Hawhz Simplicity</h1>
+      <p class="lead mb-4">Ser una marca líder en ropa urbana minimalista, reconocida por su estilo distintivo, calidad excepcional y compromiso con la sostenibilidad y la creación de una comunidad enfocada al avance y la ayuda</p>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <h2 class="text-center">Visión</h2>
+          <p class="text-center">Aportar y contribuir al medio para que las nuevas generaciones en Latinoamérica sean inspiradas a hacer cosas emprendedoras e innovadoras.</p>
+        </div>
+        <div class="col-md-6">
+          <h2 class="text-center">Misión</h2>
+          <p class="text-center">Buscamos contribuir en el mercado internacional trabajando con clientes y marcas creando una comunidad sólida que poco a poco nos ayude a posicionarnos como una de las mejores marcas streetwear en Latinoamérica.</p>
+        </div>
+      </div>
+      <img src="img/foto inicio 1.jpeg" class="img-fluid mt-5 mb-4 mx-auto d-block" alt="Productos" style="max-width: 50%">
+      <a href="productos.html" class="btn btn-primary mb-5 mx-auto d-block" style="max-width: 200px;">Ver Productos</a>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/NBqhfnlvQQU" title="Video 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="col-md-6">
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/B5ElvV5cyFg" title="Video 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+</section>
+  </main>
+       <footer class="bg-light text-center py-3">
+    
+
+    
+    
+    <p>© 2023 Hawhz Simplicity. Todos los derechos reservados
+ 

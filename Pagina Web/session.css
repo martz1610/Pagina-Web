@@ -1,0 +1,45 @@
+/*=====================================*/
+/* Estilos generales */
+
+@font-face {
+  font-family: "kenoky";
+  src: url("Kenoky.ttf");
+}
+
+body {
+  font-family: "kenoky";
+  font-size: 16px;
+  line-height: 1.5;
+  color: #718466;
+  background-color: #F7F4E0;
+}
+
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 50px;
+  }
+  
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form-wrapper {
+  max-width: 400px;
+  width: 100%;
+  padding: 20px;
+  background-color: #F7F4E0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #718466;
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+  margin-top: 20px;
+}
